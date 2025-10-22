@@ -1,6 +1,6 @@
 # 🍬 Simple Candy Crush Game (.NET Framework)
 
-> 🕒 **Note:** This project was originally developed in **May 2021** and uploaded to GitHub in **October 2025** for portfolio and documentation purposes.
+> 🕒 **Note:** This project was originally developed in **June 2023** and uploaded to GitHub in **October 2025** for portfolio and documentation purposes.
 
 This desktop game was built using **C# and .NET Framework**, inspired by the popular **Candy Crush** puzzle game. It features colorful tile matching, score tracking, and animated feedback. While functional, _**the current version includes minor bugs in the scoring logic**_ that are planned for future refinement.
 
