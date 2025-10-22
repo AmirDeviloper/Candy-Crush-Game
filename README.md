@@ -44,7 +44,6 @@ By contributing, you agree that your contributions will be released under the sa
 - 🍭 Colorful tile matching and animations  
 - 🧠 Basic scoring logic (with known bugs)  
 - 🧩 Modular code for future expansion  
-- 🖥️ Persian-friendly UI for local users
 
 ---
 
